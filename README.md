@@ -16,13 +16,19 @@ This chart below compares the military expenditure of US and China from 1861 to 
 
 ![Military expenditure comparison](https://user-images.githubusercontent.com/118332157/202929984-996efbb2-b926-4903-8190-d36e6d836e26.png)
 
+(If you need to see the exact number, please click this link and view it through *Flourish* https://public.flourish.studio/visualisation/11890804/)
+
 The second graph is showing the comparison between the number of US and China's military personnel. Except for the Civil War, the two World Wars, and the first half of the Cold War, China's military personnel is always larger than the US's.
 
-![snapshot-1668985958807](https://user-images.githubusercontent.com/118332157/202931753-7bcc671d-8e8a-4965-87aa-9ca7e7e2bae2.png)
+![snapshot-1668988096794](https://user-images.githubusercontent.com/118332157/202933378-7852e6b8-4933-495c-8062-e1af67ea7a43.png)
+
+(If you need to see the exact number, please click this link and view it through *Flourish* https://public.flourish.studio/visualisation/11891454/)
 
 Nevertheless, this graph below shows that China's total population is constantly larger than the US's throughout 1861 to 2007.
 
-![snapshot-1668985990070](https://user-images.githubusercontent.com/118332157/202931864-8b214504-f361-4b9e-b447-b9ddad9bfc98.png)
+![snapshot-1668987731815](https://user-images.githubusercontent.com/118332157/202933363-ce35c81a-cfc8-4e50-8135-e8d1d7014775.png)
+
+(If you need to see the exact number, please click this link and view it through *Flourish* https://public.flourish.studio/visualisation/11891014/)
 
 Combining the three charts above, we can reach the following conclusions：
 1. Although China usually has a bigger number of military personnel, US has a greater percentage of its total population as military personnel. 
