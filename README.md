@@ -10,9 +10,9 @@ This subset data is created using *Jupyter Lab* through *Anaconda*. You can down
 
 The original dataset is from the [Correlates of War Project](https://correlatesofwar.org). This is a direct link to that dataset [NMC v4 data](https://correlatesofwar.org/wp-content/uploads/NMC_v4_0.csv).
 ## Data Visualization 
-Here are three graphs that demonstrate the comparison of military expenditure, military personnel, and total population between the US and China.
+Here are three charts that demonstrate the comparison of military expenditure, military personnel, and total population between the US and China.
 
-this graph below compares the military expenditure of US and China from 1861 to 2007. The military expenditure of China is constantly lower than the US's. However, both lines experience ups and downs. For example, the line of US's military expenditure has one small spike during the WWI and a much bigger spike during the WWII. After that, the US's military expenditure keeps an increasing trend until 1990s due to the Cold War. On the line of China's military expenditure, there is an obvious trough during the Reform and Opening-up Policy since the Chinese government was focusing on economic flourishment.
+This chart below compares the military expenditure of US and China from 1861 to 2007. The military expenditure of China is constantly lower than the US's. However, both lines experience ups and downs. For example, the line of US's military expenditure has one small spike during the WWI and a much bigger spike during the WWII. After that, the US's military expenditure keeps an increasing trend until 1990s due to the Cold War. On the line of China's military expenditure, there is an obvious trough during the Reform and Opening-up Policy since the Chinese government was focusing on economic flourishment.
 
 ![Military expenditure comparison](https://user-images.githubusercontent.com/118332157/202929984-996efbb2-b926-4903-8190-d36e6d836e26.png)
 
