@@ -9,6 +9,7 @@ This dataset might be useful for people who want to compare the national materia
 This subset data is created using *Jupyter Lab* through *Anaconda*. You can download [Anaconda](https://unc-libraries-data.github.io/Python/Setup.html) here.
 
 The original dataset is from the [Correlates of War Project](https://correlatesofwar.org). This is a direct link to that dataset [NMC v4 data](https://correlatesofwar.org/wp-content/uploads/NMC_v4_0.csv).
+
 ## Data Visualization 
 Here are three charts that demonstrate the comparison of military expenditure, military personnel, and total population between the US and China.
 
@@ -34,3 +35,5 @@ Combining the three charts above, we can reach the following conclusions：
 1. Although China usually has a bigger number of military personnel, US has a greater percentage of its total population as military personnel. 
 2. From the first chart we can see that US always has more military expenditure than China, while China usually has more military personnel than the US, which propably is due to its much more massive total population. Therefore, the US's military power is more financially-based, whereas China's military power is more population-based.
 
+## What's Next
+Now you've finished this readme page, you can first go to the "Process Documentation" file. This file includes the link to the original dataset, a guide for you to download the Anaconda software, and a step-by-step documentation, which will be helpful for you to reproduce the dataframes. You can also click on the "Dataframes" folder to take a look at the dataframes that are used to create the visualizations, or feel free to explore whereever you want in this data repository!
