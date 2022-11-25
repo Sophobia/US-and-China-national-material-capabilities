@@ -1,9 +1,9 @@
 # Comparing National Material Capabilites (US & China)
 ## About 
-This is a data repository about the US and China national material capabilities from 1861 to 2007. The six indicators of national material capabilites of a country in this dataset are iron and steel production, military expenditure, military personnel, urban population, total population, and energy consumption.
+This is a data repository about the US and China's national material capabilities from 1861 to 2007. The six indicators of national material capabilites of a country in this dataset are iron and steel production, military expenditure, military personnel, urban population, total population, and energy consumption.
 
 ## Possible Usage
-This dataset might be useful for people who want to compare the national material capabilities of the United States and China and observe how they changed in each year from 1861 to 2007. 
+This dataset might be useful for people who want to compare the national material capabilities of the United States and China and observe how they changed every year from 1861 to 2007. 
 
 ## Acknowledgements
 This subset data is created using *Jupyter Lab* through *Anaconda*. You can download [Anaconda](https://unc-libraries-data.github.io/Python/Setup.html) here.
