@@ -15,7 +15,7 @@ Here are three charts that demonstrate the comparison of military expenditure, m
 
 The chart below compares the military expenditure of the US and China from 1861 to 2007. The military expenditure of China is constantly lower than the US. However, both lines experience ups and downs. For example, the line of the US's military expenditure has one small spike during WWI and a much bigger spike during WWII. After that, the US's military expenditure keeps an increasing trend until the 1990s due to the Cold War. On the line of China's military expenditure, there is an obvious trough during the Reform and Opening-up Policy since the Chinese government was focusing on economic flourishment.
 
-![Military expenditure comparison](https://user-images.githubusercontent.com/118332157/202929984-996efbb2-b926-4903-8190-d36e6d836e26.png)
+![military expenditure](https://user-images.githubusercontent.com/118332157/204151171-e638f310-5ca8-4b8d-a52d-f9aad2de61e6.png)
 
 (If you need to see the exact numbers, please click this link and view it through *Flourish* https://public.flourish.studio/visualisation/11890804/)
 
